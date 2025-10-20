@@ -1,19 +1,48 @@
+#  Automated Booking & Notification System
 
-# Automated Booking & Notification System
+A Django automation project that manages apartment bookings and sends notifications automatically to both tenants and landlords.
 
-A Django automation project that manages apartment bookings and sends notifications automatically.
+---
 
-## Key Features
-- Automated email confirmations to tenants and landlords
-- Scheduled updates of apartment availability
-- Background task scheduling using **Celery**
-- Error-free record management with **PostgreSQL**
+##  Key Features
+-  **Automated Email Confirmations** to tenants and landlords after each booking  
+- **Scheduled Availability Updates** for apartments after check-ins/check-outs  
+- **Background Task Scheduling** with **Celery** for smooth asynchronous operations  
+-  **Reliable Data Management** using **PostgreSQL**  
+-  **Error Logging & Retry Mechanism** for failed email deliveries  
 
-##  Tools & Libraries
-Django, Celery, Python, PostgreSQL, SMTP (Email)
+---
+
+## Tools & Libraries
+- **Framework:** Django  
+- **Task Queue:** Celery  
+- **Language:** Python  
+- **Database:** PostgreSQL  
+- **Email Service:** SMTP  
+
+---
 
 ##  Impact
-Reduced manual administrative work by 80% and ensured real-time updates across the platform.
+Reduced manual administrative work by **80%** and ensured **real-time updates** across the booking platform, improving tenant satisfaction and landlord response time.
 
-![Email Screenshot](email.jpeg)
+---
 
+##  Example Screenshot
+
+<p align="center">
+  <img src="email.jpeg" alt="Automated Email Notification" width="600"/>
+</p>
+
+---
+
+##  Project Structure
+```plaintext
+automated-booking-system/
+├── core/
+│   ├── tasks.py
+│   ├── models.py
+│   ├── views.py
+│   └── email_utils.py
+├── manage.py
+├── requirements.txt
+└── README.md
