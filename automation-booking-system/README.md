@@ -14,3 +14,6 @@ Django, Celery, Python, PostgreSQL, SMTP (Email)
 
 ##  Impact
 Reduced manual administrative work by 80% and ensured real-time updates across the platform.
+
+![Email Screenshot](email.jpeg)
+
