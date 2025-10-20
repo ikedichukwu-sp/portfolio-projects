@@ -18,7 +18,7 @@ A Django-based web platform that connects tenants with verified short-let apartm
 ##  Impact
 This system streamlined apartment bookings, reducing manual coordination between landlords and tenants by over 70%.
 
-## 🖼️ Screenshots
+## Screenshots
 
 <p align="center">
   <img src="booking.jpg" alt="Booking Screenshot" width="600"/>
@@ -36,4 +36,13 @@ This system streamlined apartment bookings, reducing manual coordination between
 - JavaScript (AJAX)
 - Face API.js
 - PostgreSQL
+
+- ## Live Demo
+[View on easyrent247.com](https://easyrent247.com)
+
+## 📩 Contact
+If you'd like a custom Django web app like this, reach out to me on [Fiverr](https://www.fiverr.com/ikedi_sp) or [GitHub](https://github.com/ikedichukwu-sp).
+
+
+
 
