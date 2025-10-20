@@ -21,4 +21,7 @@ This system streamlined apartment bookings, reducing manual coordination between
 ![Booking Screenshot](booking.jpg)
 ![shortlet Screenshot](shortlet.jpg)
 ![verification Screenshot](verification2.png)
+![chat Screenshot](chat.png)
+![chat_list Screenshot](chat_list.png)
+![notification Screenshot](notification.png)
 
