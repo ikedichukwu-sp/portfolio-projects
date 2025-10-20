@@ -17,3 +17,4 @@ A Django-based web platform that connects tenants with verified short-let apartm
 
 ##  Impact
 This system streamlined apartment bookings, reducing manual coordination between landlords and tenants by over 70%.
+![Dashboard Screenshot](dashboard.png)
