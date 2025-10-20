@@ -18,13 +18,17 @@ A Django-based web platform that connects tenants with verified short-let apartm
 ##  Impact
 This system streamlined apartment bookings, reducing manual coordination between landlords and tenants by over 70%.
 
-![Booking Screenshot](booking.jpg)
-![shortlet Screenshot](shortlet.jpg)
-![chat_list Screenshot](chat_list.png)
-![verification Screenshot](verification2.png)
-![Dashboard Screenshot](dashboard.png)
-![chat Screenshot](chat.png)
-![notification Screenshot](notification.png)
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="booking.jpg" alt="Booking Screenshot" width="600"/>
+  <img src="shortlet.jpg" alt="Short-let Homepage" width="600"/>
+  <img src="chat_list.png" alt="Chat List" width="600"/>
+  <img src="verification2.png" alt="Verification Page" width="600"/>
+  <img src="dashboard.png" alt="Dashboard" width="600"/>
+  <img src="chat.png" alt="Chat Window" width="600"/>
+  <img src="notification.png" alt="Notification System" width="600"/>
+</p>
 
 ## Technologies Used
 - Django
