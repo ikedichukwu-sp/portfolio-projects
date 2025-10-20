@@ -47,6 +47,6 @@ automated-booking-system/
 ├── requirements.txt
 └── README.md
 
-
+```
 
 If you'd like a custom Django web app like this, reach out to me on [Fiverr](https://www.fiverr.com/ikedi_sp) or [GitHub](https://github.com/ikedichukwu-sp).
