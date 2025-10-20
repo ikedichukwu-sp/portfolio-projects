@@ -26,3 +26,10 @@ This system streamlined apartment bookings, reducing manual coordination between
 ![chat Screenshot](chat.png)
 ![notification Screenshot](notification.png)
 
+## Technologies Used
+- Django
+- Bootstrap
+- JavaScript (AJAX)
+- Face API.js
+- PostgreSQL
+
