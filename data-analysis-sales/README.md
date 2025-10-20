@@ -42,6 +42,7 @@ sales-performance-analysis/
 ├── analysis.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ##  Contact
 If you'd like a custom Django web app like this, reach out to me on [Fiverr](https://www.fiverr.com/ikedi_sp) or [GitHub](https://github.com/ikedichukwu-sp).
